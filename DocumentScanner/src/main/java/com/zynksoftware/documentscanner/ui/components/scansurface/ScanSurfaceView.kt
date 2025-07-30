@@ -74,8 +74,8 @@ internal class ScanSurfaceView : FrameLayout {
     private var camera: Camera? = null
     private var imageCapture: ImageCapture? = null
     private var preview: Preview? = null
-    private lateinit var scanCanvasView: ScanCanvasView
-    private lateinit var viewFinder: PreviewView
+    private  var scanCanvasView: ScanCanvasView
+    private  var viewFinder: PreviewView
     private var cameraProvider: ProcessCameraProvider? = null
     private lateinit var previewSize: android.util.Size
 
@@ -84,6 +84,10 @@ internal class ScanSurfaceView : FrameLayout {
     private var flashMode: Int = ImageCapture.FLASH_MODE_OFF
 
     init {
+        binding = ScanSu.inflate(LayoutInflater.from(context), this, true)
+
+        scanCanvasView = binding.scanCanvasView
+        viewFinder = binding.viewFinder
         val view = LayoutInflater.from(context).inflate(R.layout.scan_surface_view, this, true)
         scanCanvasView = view.findViewById(R.id.scanCanvasView)
         viewFinder = view.findViewById(R.id.viewFinder)
