@@ -22,13 +22,14 @@ import com.zynksoftware.documentscanner.model.DocumentScannerErrorModel
 import com.zynksoftware.documentscanner.model.ScannerResults
 import com.zynksoftware.documentscannersample.adapters.ImageAdapter
 import com.zynksoftware.documentscannersample.adapters.ImageAdapterListener
-import kotlinx.android.synthetic.main.app_scan_activity_layout.*
+import com.zynksoftware.documentscannersample.databinding.AppScanActivityLayoutBinding
 import java.io.*
 import java.text.SimpleDateFormat
 import java.util.*
 
 
 class AppScanActivity: ScanActivity(), ImageAdapterListener {
+    lateinit var binding: AppScanActivityLayoutBinding
 
     companion object {
         private val TAG = AppScanActivity::class.simpleName
@@ -44,7 +45,8 @@ class AppScanActivity: ScanActivity(), ImageAdapterListener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.app_scan_activity_layout)
+        binding = AppScanActivityLayoutBinding.inflate(layoutInflater)
+        setContentView(binding.root)
         addFragmentContentLayout()
     }
 
@@ -139,11 +141,11 @@ class AppScanActivity: ScanActivity(), ImageAdapterListener {
     }
 
     private fun showProgressBar() {
-        progressLayoutApp.isVisible = true
+        binding.progressLayoutApp.isVisible = true
     }
 
     private fun hideProgessBar() {
-        progressLayoutApp.isVisible = false
+        binding.progressLayoutApp.isVisible = false
     }
 
     private fun initViewPager(scannerResults: ScannerResults) {
@@ -165,22 +167,22 @@ class AppScanActivity: ScanActivity(), ImageAdapterListener {
         scannerResults.transformedImageFile?.let { fileList.add(it) }
         scannerResults.croppedImageFile?.let { fileList.add(it) }
         val targetAdapter = ImageAdapter(this, fileList, this)
-        viewPagerTwo.adapter = targetAdapter
-        viewPagerTwo.isUserInputEnabled = false
+        binding.viewPagerTwo.adapter = targetAdapter
+        binding.viewPagerTwo.isUserInputEnabled = false
 
-        previousButton.setOnClickListener {
-            viewPagerTwo.currentItem = viewPagerTwo.currentItem - 1
-            nextButton.isVisible = true
-            if (viewPagerTwo.currentItem == 0) {
-                previousButton.isVisible = false
+        binding.previousButton.setOnClickListener {
+            binding.viewPagerTwo.currentItem = binding.viewPagerTwo.currentItem - 1
+            binding.nextButton.isVisible = true
+            if (binding.viewPagerTwo.currentItem == 0) {
+                binding.previousButton.isVisible = false
             }
         }
 
-        nextButton.setOnClickListener {
-            viewPagerTwo.currentItem = viewPagerTwo.currentItem + 1
-            previousButton.isVisible = true
-            if (viewPagerTwo.currentItem == fileList.size - 1) {
-                nextButton.isVisible = false
+        binding.nextButton.setOnClickListener {
+            binding.viewPagerTwo.currentItem = binding.viewPagerTwo.currentItem + 1
+            binding.previousButton.isVisible = true
+            if (binding.viewPagerTwo.currentItem == fileList.size - 1) {
+                binding. nextButton.isVisible = false
             }
         }
     }

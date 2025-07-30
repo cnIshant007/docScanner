@@ -132,7 +132,7 @@
         "rootBuildGradleFolder": "/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK",
         "sdkFolder": "/Users/bcsn-ishants/Library/Android/sdk",
         "isBuildOnlyTargetAbiEnabled": true,
-        "ideBuildTargetAbi": "arm64-v8a",
+        "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
         "isCmakeBuildCohabitationEnabled": false,
         "isPrefabEnabled": false
       },

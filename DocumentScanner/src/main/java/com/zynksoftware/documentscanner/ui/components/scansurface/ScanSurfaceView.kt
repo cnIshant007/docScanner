@@ -28,6 +28,7 @@ import android.view.LayoutInflater
 import android.widget.FrameLayout
 import androidx.camera.core.*
 import androidx.camera.lifecycle.ProcessCameraProvider
+import androidx.camera.view.PreviewView
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.LifecycleOwner
 import com.zynksoftware.documentscanner.R
@@ -36,7 +37,7 @@ import com.zynksoftware.documentscanner.common.utils.ImageDetectionProperties
 import com.zynksoftware.documentscanner.common.utils.OpenCvNativeBridge
 import com.zynksoftware.documentscanner.model.DocumentScannerErrorModel
 import com.zynksoftware.documentscanner.model.DocumentScannerErrorModel.ErrorMessage
-import kotlinx.android.synthetic.main.scan_surface_view.view.*
+import com.zynksoftware.documentscanner.ui.components.ScanCanvasView
 import org.opencv.core.MatOfPoint2f
 import org.opencv.core.Point
 import org.opencv.core.Size
@@ -73,6 +74,8 @@ internal class ScanSurfaceView : FrameLayout {
     private var camera: Camera? = null
     private var imageCapture: ImageCapture? = null
     private var preview: Preview? = null
+    private lateinit var scanCanvasView: ScanCanvasView
+    private lateinit var viewFinder: PreviewView
     private var cameraProvider: ProcessCameraProvider? = null
     private lateinit var previewSize: android.util.Size
 
@@ -81,7 +84,9 @@ internal class ScanSurfaceView : FrameLayout {
     private var flashMode: Int = ImageCapture.FLASH_MODE_OFF
 
     init {
-        LayoutInflater.from(context).inflate(R.layout.scan_surface_view, this, true)
+        val view = LayoutInflater.from(context).inflate(R.layout.scan_surface_view, this, true)
+        scanCanvasView = view.findViewById(R.id.scanCanvasView)
+        viewFinder = view.findViewById(R.id.viewFinder)
     }
 
     fun start() {

@@ -4,6 +4,7 @@ ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/
 INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:2:1-34:12
 INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:2:1-34:12
 INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.databinding:viewbinding:8.11.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/48d278dfa960b3d1d3fc6423c47fa29f/transformed/jetified-viewbinding-8.11.1/AndroidManifest.xml:2:1-7:12
 MERGED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-34:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/18c5166934192d77e7c8504cddf86706/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.camera:camera-view:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/cb81b55649c1cddf5657e65bc78f85cc/transformed/jetified-camera-view-1.2.3/AndroidManifest.xml:17:1-22:12
@@ -152,6 +153,8 @@ uses-sdk
 INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml
 INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.11.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/48d278dfa960b3d1d3fc6423c47fa29f/transformed/jetified-viewbinding-8.11.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.11.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/48d278dfa960b3d1d3fc6423c47fa29f/transformed/jetified-viewbinding-8.11.1/AndroidManifest.xml:5:5-44
 MERGED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:6:5-44
 MERGED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:6:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/18c5166934192d77e7c8504cddf86706/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41

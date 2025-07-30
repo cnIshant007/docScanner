@@ -28,6 +28,8 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ImageView
+import android.widget.TextView
 import androidx.activity.result.contract.ActivityResultContracts
 import com.fondesa.kpermissions.allGranted
 import com.fondesa.kpermissions.allShouldShowRationale
@@ -39,15 +41,22 @@ import com.zynksoftware.documentscanner.common.extensions.show
 import com.zynksoftware.documentscanner.common.utils.FileUriUtils
 import com.zynksoftware.documentscanner.model.DocumentScannerErrorModel
 import com.zynksoftware.documentscanner.ui.base.BaseFragment
+import com.zynksoftware.documentscanner.ui.components.ProgressView
 import com.zynksoftware.documentscanner.ui.components.scansurface.ScanSurfaceListener
 import com.zynksoftware.documentscanner.ui.scan.InternalScanActivity
-import kotlinx.android.synthetic.main.fragment_camera_screen.*
 import java.io.File
 import java.io.FileNotFoundException
 
 
 internal class CameraScreenFragment: BaseFragment(), ScanSurfaceListener  {
 
+    private lateinit var scanSurfaceView: com.zynksoftware.documentscanner.ui.components.scansurface.ScanSurfaceView
+    private  lateinit var cameraCaptureButton: View
+    private lateinit var cancelButton: TextView
+    private lateinit var autoButton: TextView
+    private lateinit var galleryButton: ImageView
+    private lateinit var flashButton: ImageView
+    private lateinit var progressLayout: ProgressView
     companion object {
         private val TAG = CameraScreenFragment::class.simpleName
 
@@ -90,7 +99,13 @@ internal class CameraScreenFragment: BaseFragment(), ScanSurfaceListener  {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-
+        scanSurfaceView = view.findViewById(R.id.scanSurfaceView)
+        cameraCaptureButton = view.findViewById(R.id.cameraCaptureButton)
+        cancelButton = view.findViewById(R.id.cancelButton)
+        galleryButton = view.findViewById(R.id.galleryButton)
+        flashButton = view.findViewById(R.id.flashButton)
+        autoButton = view.findViewById(R.id.autoButton)
+        progressLayout = view.findViewById(R.id.progressLayout)
         scanSurfaceView.lifecycleOwner = this
         scanSurfaceView.listener = this
         scanSurfaceView.originalImageFile = getScanActivity().originalImageFile
