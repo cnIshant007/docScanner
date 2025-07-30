@@ -1,0 +1,59 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.zynksoftware.documentscanner" >
+5
+6    <uses-sdk android:minSdkVersion="21" />
+7
+8    <uses-feature
+8-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:5:5-85
+9        android:name="android.hardware.camera2"
+9-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:5:19-58
+10        android:required="false" />
+10-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:5:59-83
+11
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:6:5-64
+12-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:6:22-62
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:7:5-79
+13-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+14-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:8:5-75
+14-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:8:22-73
+15    <uses-permission
+15-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:9:5-94
+16        android:name="android.permission.READ_PHONE_STATE"
+16-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:9:22-72
+17        tools:node="remove" />
+17-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:9:73-92
+18
+19    <application
+19-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:11:5-27:19
+20        android:hardwareAccelerated="true"
+20-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:14:9-43
+21        android:largeHeap="true"
+21-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:13:9-33
+22        android:requestLegacyExternalStorage="true"
+22-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:12:9-52
+23        tools:ignore="UnusedAttribute" >
+23-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:15:9-39
+24        <activity
+24-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:17:9-20:52
+25            android:name="com.zynksoftware.documentscanner.ui.scan.InternalScanActivity"
+25-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:18:13-57
+26            android:exported="false"
+26-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:19:13-37
+27            android:theme="@style/ActivityTheme" />
+27-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:20:13-49
+28        <activity
+28-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:22:9-25:52
+29            android:name="com.zynksoftware.documentscanner.ScanActivity"
+29-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:23:13-41
+30            android:exported="false"
+30-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:24:13-37
+31            android:theme="@style/ActivityTheme" />
+31-->/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/src/main/AndroidManifest.xml:25:13-49
+32    </application>
+33
+34</manifest>

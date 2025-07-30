@@ -1,0 +1,1 @@
+/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/openCV440/build/intermediates/cxx/Debug/6a63543v/obj/x86

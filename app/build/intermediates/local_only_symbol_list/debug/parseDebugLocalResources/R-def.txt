@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable left_arrow
+drawable right_arrow
+id bottomBar
+id nextButton
+id photoImageView
+id previousButton
+id progressLayoutApp
+id relativeRoot
+id root
+id saveButton
+id scanLibButton
+id topBar
+id viewPagerTwo
+layout activity_main
+layout app_scan_activity_layout
+layout image_preview_adapter
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string error_label
+string ok_label
+string photo_saved
+style AppTheme

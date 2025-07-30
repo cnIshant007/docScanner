@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#BDFBF5</color>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#009688</color>
+    <string name="app_name">DocumentScannerSample</string>
+    <string name="error_label">Error</string>
+    <string name="ok_label">OK</string>
+    <string name="photo_saved">Photo has been saved to Camera</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

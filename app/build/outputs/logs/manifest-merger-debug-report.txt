@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/18c5166934192d77e7c8504cddf86706/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/cb81b55649c1cddf5657e65bc78f85cc/transformed/jetified-camera-view-1.2.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/7f65583c51032f901cc22077a9a874af/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/3dc040ecb72d39969fee0fca81e9208c/transformed/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.fondesa:kpermissions:3.3.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/59a70139a82716f45733dcddb392931b/transformed/jetified-kpermissions-3.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/732f6ef7d1cdc8f7dd0e24f4b1683f38/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/0ab687fd366d3b25cc21c0fe40ec70d3/transformed/fragment-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/f3cbad663017e9812f9824324c2190a3/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [id.zelory:compressor:3.0.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/2a652cd93585c355e565d0f586819ba8/transformed/jetified-compressor-3.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-lifecycle:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/18fc2f3ec0064b770429953ead5fd12a/transformed/jetified-camera-lifecycle-1.2.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-core:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/5d7299d49e28549ae631f6cb52dc049e/transformed/jetified-camera-core-1.2.3/AndroidManifest.xml:17:1-36:12
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/344f80d5ed3abe8f1450126b845d35ad/transformed/jetified-rxandroid-3.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/80e77ec2567fd7add8a9c85ed46aa99f/transformed/jetified-PhotoView-2.0.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e0d5a4bd4aac0436b40fdccf3b059584/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/f39fb108ea0d7e0cd39e2c99290bb3cb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/59d2b23a42fa1b575ed2e3df6543a927/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/22651a25bd4136ad10a29b8e6e383d82/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/c294b783dbdd67e359438b6eb9ed6461/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/4bee1fa4b3845e13c3c9cd0597eea3ba/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/65893c3d19f3e8fb5c652a3e3487237d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/940fdd8495d69b7b159eae0bc0a0fa75/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/849d6d621ff4f52a5753ee5720911c47/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/15752c6847101477e054adfa7d59491d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e7c1e9f25e62f6000c985d6f1d1d9f0a/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/41fe8ae1e0417a9f90e39429c55601b7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/a1a525708b55a084aab5854942b57c0e/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/5ba9d50dc3595d33c8bc17e3e6aa8b3a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/81131a0ec64c644597fce4e461c4b448/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/bc7dae63d5a85473eb1d4d0cb2e07fe6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e915b0684da8699076830d77ed568e7e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/1bd514756326b0a89c49174b8407265e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/8c205a099ade47b658ddbde96a6b3700/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/58d552abc03437653c2af50a4c282d75/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/39aa7db3df83e93ac05ca4dc22d79f4b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/6efd42d490583f4a066b54af2c80f37b/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/951727cd84ca6fca837693d8ece1c3c0/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/55bd92866c6aa699db2a0fb2c47358ca/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/da60af93cfc406ca489670a92515a381/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/1460a4f2e3f528729f50e3682842d465/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/6fac4489cfa9fdb04292b06f435c859e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:openCV440] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/openCV440/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/fd3ec6f41d25cc9acc7951d09bb931ef/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:5-80
+MERGED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:7:5-75
+MERGED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:5-76
+MERGED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.ACCESS_MEDIA_LOCATION
+ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:8:22-77
+application
+ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:10:5-32:19
+INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:10:5-32:19
+MERGED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:5-32:19
+MERGED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:19:5-32:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/18c5166934192d77e7c8504cddf86706/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/18c5166934192d77e7c8504cddf86706/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/3dc040ecb72d39969fee0fca81e9208c/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/3dc040ecb72d39969fee0fca81e9208c/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/5d7299d49e28549ae631f6cb52dc049e/transformed/jetified-camera-core-1.2.3/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/5d7299d49e28549ae631f6cb52dc049e/transformed/jetified-camera-core-1.2.3/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.core:core:1.6.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e7c1e9f25e62f6000c985d6f1d1d9f0a/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e7c1e9f25e62f6000c985d6f1d1d9f0a/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e915b0684da8699076830d77ed568e7e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e915b0684da8699076830d77ed568e7e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/1bd514756326b0a89c49174b8407265e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/1bd514756326b0a89c49174b8407265e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:22:9-52
+	android:extractNativeLibs
+		INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e7c1e9f25e62f6000c985d6f1d1d9f0a/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:13:9-41
+	android:hardwareAccelerated
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:20:9-43
+	tools:ignore
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:23:9-39
+	android:roundIcon
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:14:9-54
+	android:largeHeap
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:21:9-33
+	android:icon
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:16:9-32
+activity#com.zynksoftware.documentscannersample.MainActivity
+ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:18:9-25:20
+	android:exported
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.zynksoftware.documentscannersample.AppScanActivity
+ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:27:9-30:66
+	android:screenOrientation
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:29:13-49
+	android:exported
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:28:13-37
+	android:theme
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:30:13-63
+	android:name
+		ADDED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml:27:19-50
+uses-sdk
+INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml
+MERGED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:6:5-44
+MERGED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:6:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/18c5166934192d77e7c8504cddf86706/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/18c5166934192d77e7c8504cddf86706/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-view:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/cb81b55649c1cddf5657e65bc78f85cc/transformed/jetified-camera-view-1.2.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/cb81b55649c1cddf5657e65bc78f85cc/transformed/jetified-camera-view-1.2.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/7f65583c51032f901cc22077a9a874af/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/7f65583c51032f901cc22077a9a874af/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/3dc040ecb72d39969fee0fca81e9208c/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/3dc040ecb72d39969fee0fca81e9208c/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.fondesa:kpermissions:3.3.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/59a70139a82716f45733dcddb392931b/transformed/jetified-kpermissions-3.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.fondesa:kpermissions:3.3.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/59a70139a82716f45733dcddb392931b/transformed/jetified-kpermissions-3.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/732f6ef7d1cdc8f7dd0e24f4b1683f38/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/732f6ef7d1cdc8f7dd0e24f4b1683f38/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/0ab687fd366d3b25cc21c0fe40ec70d3/transformed/fragment-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/0ab687fd366d3b25cc21c0fe40ec70d3/transformed/fragment-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/f3cbad663017e9812f9824324c2190a3/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/f3cbad663017e9812f9824324c2190a3/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [id.zelory:compressor:3.0.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/2a652cd93585c355e565d0f586819ba8/transformed/jetified-compressor-3.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [id.zelory:compressor:3.0.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/2a652cd93585c355e565d0f586819ba8/transformed/jetified-compressor-3.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/18fc2f3ec0064b770429953ead5fd12a/transformed/jetified-camera-lifecycle-1.2.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/18fc2f3ec0064b770429953ead5fd12a/transformed/jetified-camera-lifecycle-1.2.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-core:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/5d7299d49e28549ae631f6cb52dc049e/transformed/jetified-camera-core-1.2.3/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/5d7299d49e28549ae631f6cb52dc049e/transformed/jetified-camera-core-1.2.3/AndroidManifest.xml:21:5-44
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/344f80d5ed3abe8f1450126b845d35ad/transformed/jetified-rxandroid-3.0.0/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava3:rxandroid:3.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/344f80d5ed3abe8f1450126b845d35ad/transformed/jetified-rxandroid-3.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/80e77ec2567fd7add8a9c85ed46aa99f/transformed/jetified-PhotoView-2.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/80e77ec2567fd7add8a9c85ed46aa99f/transformed/jetified-PhotoView-2.0.0/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e0d5a4bd4aac0436b40fdccf3b059584/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e0d5a4bd4aac0436b40fdccf3b059584/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/f39fb108ea0d7e0cd39e2c99290bb3cb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/f39fb108ea0d7e0cd39e2c99290bb3cb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/59d2b23a42fa1b575ed2e3df6543a927/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/59d2b23a42fa1b575ed2e3df6543a927/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/22651a25bd4136ad10a29b8e6e383d82/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/22651a25bd4136ad10a29b8e6e383d82/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/c294b783dbdd67e359438b6eb9ed6461/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/c294b783dbdd67e359438b6eb9ed6461/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/4bee1fa4b3845e13c3c9cd0597eea3ba/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/4bee1fa4b3845e13c3c9cd0597eea3ba/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/65893c3d19f3e8fb5c652a3e3487237d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/65893c3d19f3e8fb5c652a3e3487237d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/940fdd8495d69b7b159eae0bc0a0fa75/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/940fdd8495d69b7b159eae0bc0a0fa75/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.4] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/849d6d621ff4f52a5753ee5720911c47/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/849d6d621ff4f52a5753ee5720911c47/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/15752c6847101477e054adfa7d59491d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/15752c6847101477e054adfa7d59491d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e7c1e9f25e62f6000c985d6f1d1d9f0a/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e7c1e9f25e62f6000c985d6f1d1d9f0a/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/41fe8ae1e0417a9f90e39429c55601b7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/41fe8ae1e0417a9f90e39429c55601b7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/a1a525708b55a084aab5854942b57c0e/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/a1a525708b55a084aab5854942b57c0e/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/5ba9d50dc3595d33c8bc17e3e6aa8b3a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/5ba9d50dc3595d33c8bc17e3e6aa8b3a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/81131a0ec64c644597fce4e461c4b448/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/81131a0ec64c644597fce4e461c4b448/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/bc7dae63d5a85473eb1d4d0cb2e07fe6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/bc7dae63d5a85473eb1d4d0cb2e07fe6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e915b0684da8699076830d77ed568e7e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/e915b0684da8699076830d77ed568e7e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/1bd514756326b0a89c49174b8407265e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/1bd514756326b0a89c49174b8407265e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/8c205a099ade47b658ddbde96a6b3700/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/8c205a099ade47b658ddbde96a6b3700/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/58d552abc03437653c2af50a4c282d75/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/58d552abc03437653c2af50a4c282d75/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/39aa7db3df83e93ac05ca4dc22d79f4b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/39aa7db3df83e93ac05ca4dc22d79f4b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/6efd42d490583f4a066b54af2c80f37b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/6efd42d490583f4a066b54af2c80f37b/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/951727cd84ca6fca837693d8ece1c3c0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/951727cd84ca6fca837693d8ece1c3c0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/55bd92866c6aa699db2a0fb2c47358ca/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/55bd92866c6aa699db2a0fb2c47358ca/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/da60af93cfc406ca489670a92515a381/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/da60af93cfc406ca489670a92515a381/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/1460a4f2e3f528729f50e3682842d465/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/1460a4f2e3f528729f50e3682842d465/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/6fac4489cfa9fdb04292b06f435c859e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/6fac4489cfa9fdb04292b06f435c859e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:openCV440] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/openCV440/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [:openCV440] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/openCV440/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/fd3ec6f41d25cc9acc7951d09bb931ef/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/fd3ec6f41d25cc9acc7951d09bb931ef/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera2
+ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:8:5-10:36
+	android:required
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:10:9-33
+	android:name
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:9:9-48
+uses-permission#android.permission.CAMERA
+ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:12:22-62
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:15:5-17:31
+	tools:node
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:9-28
+	android:name
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:16:9-59
+activity#com.zynksoftware.documentscanner.ui.scan.InternalScanActivity
+ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:24:9-27:52
+	android:exported
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:25:13-89
+activity#com.zynksoftware.documentscanner.ScanActivity
+ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:28:9-31:52
+	android:exported
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:30:13-37
+	android:theme
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from [:DocumentScanner] /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/DocumentScanner/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:29:13-73
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/5d7299d49e28549ae631f6cb52dc049e/transformed/jetified-camera-core-1.2.3/AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/5d7299d49e28549ae631f6cb52dc049e/transformed/jetified-camera-core-1.2.3/AndroidManifest.xml:29:9-33:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:29:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:26:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:28:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:25:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.3] /Users/bcsn-ishants/.gradle/caches/8.13/transforms/aab9b1993af3e58cd8a1afa983382e54/transformed/jetified-camera-camera2-1.2.3/AndroidManifest.xml:31:17-103

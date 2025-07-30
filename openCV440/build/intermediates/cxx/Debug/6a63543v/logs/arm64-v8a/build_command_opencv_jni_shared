@@ -1,0 +1,4 @@
+/Users/bcsn-ishants/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/openCV440/.cxx/Debug/6a63543v/arm64-v8a \
+  opencv_jni_shared

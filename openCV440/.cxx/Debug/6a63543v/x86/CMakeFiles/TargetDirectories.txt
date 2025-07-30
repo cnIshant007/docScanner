@@ -1,0 +1,3 @@
+/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/openCV440/.cxx/Debug/6a63543v/x86/CMakeFiles/opencv_jni_shared.dir
+/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/openCV440/.cxx/Debug/6a63543v/x86/CMakeFiles/edit_cache.dir
+/Users/bcsn-ishants/StudioProjects/Document-Scanning-Android-SDK/openCV440/.cxx/Debug/6a63543v/x86/CMakeFiles/rebuild_cache.dir
